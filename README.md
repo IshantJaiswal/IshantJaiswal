@@ -6,7 +6,7 @@
 
 - 📫 How to reach me **jaiswalishant2003@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1BzrTrDIMbNJ5txlMuwTkye20-okZ3nAe/view?usp=sharing](https://drive.google.com/file/d/1BzrTrDIMbNJ5txlMuwTkye20-okZ3nAe/view?usp=sharing)
+- 📄 Wanna know about me ? [https://drive.google.com/file/d/1BzrTrDIMbNJ5txlMuwTkye20-okZ3nAe/view?usp=sharing](https://drive.google.com/file/d/1BzrTrDIMbNJ5txlMuwTkye20-okZ3nAe/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
