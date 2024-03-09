@@ -1,4 +1,3 @@
-### Hi there 👋
 <h1 align="center">Hi 👋, I'm Ishant Jaiswal</h1>
 <h3 align="center">A Full Stack Web developer from India</h3>
 
@@ -6,7 +5,7 @@
 
 - 📫 How to reach me **jaiswalishant2003@gmail.com**
 
-- 📄 Wanna know about me ? [https://drive.google.com/file/d/1BzrTrDIMbNJ5txlMuwTkye20-okZ3nAe/view?usp=sharing](https://drive.google.com/file/d/1BzrTrDIMbNJ5txlMuwTkye20-okZ3nAe/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1BzrTrDIMbNJ5txlMuwTkye20-okZ3nAe/view?usp=sharing](https://drive.google.com/file/d/1BzrTrDIMbNJ5txlMuwTkye20-okZ3nAe/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -19,5 +18,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ishantjaiswal&show_icons=true&locale=en&layout=compact" alt="ishantjaiswal" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ishantjaiswal&show_icons=true&locale=en" alt="ishantjaiswal" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ishantjaiswal&" alt="ishantjaiswal" /></p>
