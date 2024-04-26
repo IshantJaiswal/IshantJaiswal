@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ishantjaiswal" alt="ishantjaiswal" /></a> </p>
 
-- 👨‍💻 My Resume [https://drive.google.com/file/d/1BzrTrDIMbNJ5txlMuwTkye20-okZ3nAe/view?usp=sharing](https://drive.google.com/file/d/1BzrTrDIMbNJ5txlMuwTkye20-okZ3nAe/view?usp=sharing)
+- 👨‍💻 My Resume [https://drive.google.com/file/d/1BzrTrDIMbNJ5txlMuwTkye20-okZ3nAe/view?usp=sharing](https://drive.google.com/file/d/1p3ykltmKXHoMjICleanJGagiRRcTLcPc/view?usp=drive_link)
 
 - 📫 How to reach me **jaiswalishant03@gmail.com**
 
